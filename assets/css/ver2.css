@@ -1,0 +1,35 @@
+body{
+	font-family: 'Montserrat';
+}
+
+#first{
+	height: 100vh;
+	background-image: url(../images/background.jpeg);
+}
+
+#footer{
+	bottom: 0;
+	left: 0;
+	height: 6vh;
+	width: 100%;
+}
+
+.container hr{
+	border-top: 2px solid rgb(235, 240, 240);
+	width: 150px;
+}
+
+.content{
+	padding-bottom: 100px;
+}
+
+#second{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background: rgb(214, 213, 208);
+}
+
+#block{
+	width: 95%;
+	margin: 0 auto;
+}
